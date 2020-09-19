@@ -1,5 +1,0 @@
-{
-    "name": "hello-node",
-    "description": "Hello World NodeJs App",
-    "main": "server.js"
-  }
